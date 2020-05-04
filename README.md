@@ -1,1 +1,1 @@
-# COMP4173-Project
+# Final Project of COMP4173 Digital Image Processing
