@@ -57,7 +57,7 @@ void fusion(vector<Mat> files)
   Stitcher *stitcher = createStitcher();
   Stitcher::Status status = stitcher->stitch(files, dst);
   if (status != Stitcher::Status::OK) {
-    cout << "Failed to stitch image0" << endl;
+    cout << "Failed to stitch image" << endl;
     return;
   }
 
